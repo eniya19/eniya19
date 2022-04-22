@@ -28,8 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eniya19&show_icons=true&locale=en&layout=compact" alt="eniya19" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eniya19" alt="eniya19" /></a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniya19&show_icons=true&locale=en" alt="eniya19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eniya19&" alt="eniya19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eniya19" alt="eniya19" /></a> </p>
