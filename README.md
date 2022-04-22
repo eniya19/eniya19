@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Web Scrapping, Data Visualization, Data Analysis**
 
-- 📫 How to reach me **eniyakul19@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/12c0PTVulx5X7yLtE74WqIZHQwmEMbnEk/view](https://drive.google.com/file/d/12c0PTVulx5X7yLtE74WqIZHQwmEMbnEk/view)
 
 <h3 align="left">Connect with me:</h3>
