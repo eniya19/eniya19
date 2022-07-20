@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
 <h3 align="center">A passionate Learner || Big Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Big Data Technologies**
+- 🌱 I love business intelligence and insights extraction**
 
 - 👯 I’m looking to collaborate and help on with **Data Analytics, Machine Learning projects**
 
