@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
 <h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
-- 👩🏻‍💻 Software Engineer by profession but Data analyst by passion.
+- 👩🏻‍💻 Software Engineer by profession, Data analyst by passion.
 
 - 🌱 I love business intelligence and insights extraction**
 
