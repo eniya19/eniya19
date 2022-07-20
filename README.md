@@ -19,8 +19,9 @@
 <a href="https://kaggle.com/eniya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eniya19" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-- Tools: SQL, Python, PowerBI, Excel
+
+### 💡Languages & Tools💡
+- Tools: SQL, Python, PowerBI, Excel, PostgreSQL
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniya19&show_icons=true&locale=en" alt="eniya19" /></p>
