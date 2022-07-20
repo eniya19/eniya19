@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
 - 👩🏻‍💻 Software Engineer by profession, Data analyst by passion.
 
-- 🌱 I love business intelligence and insights extraction**
+- 🌱 Always looking for exploring every kind of data.**
 
 - 👯 I’m looking to collaborate and help on with **Python, Data Cleaning, Data Visualization, Data Analysis, SQL, PowerBI**
 
