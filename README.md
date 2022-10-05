@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
 <h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
-- 👩🏻‍💻 Data analyst by Profession.
+
+- 👩🏻‍💻 Software Developer turned Data Analyst.
 
 - 🌱 Always looking for exploring every kind of data.**
 
