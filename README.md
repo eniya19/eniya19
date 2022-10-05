@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
 <h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
-- 👩🏻‍💻 Software Engineer by profession, Data analyst by passion.
+- 👩🏻‍💻 Data analyst by Profession.
 
 - 🌱 Always looking for exploring every kind of data.**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Scrapping, Data Visualization, Data Analysis**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12c0PTVulx5X7yLtE74WqIZHQwmEMbnEk/view](https://drive.google.com/file/d/12c0PTVulx5X7yLtE74WqIZHQwmEMbnEk/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xB7BLfLZQBtjCucMacpk-lmIlX79OkvY/view](https://drive.google.com/file/d/1xB7BLfLZQBtjCucMacpk-lmIlX79OkvY/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
