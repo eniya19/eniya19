@@ -20,7 +20,7 @@
 
 
 ### 💡Languages & Tools💡
-- Tools: SQL, Python, PowerBI, Excel, PostgreSQL
+- Tools: SQL, Python, PowerBI, Excel, PostgreSQL, BigQuery, Tableau, Git, Google Analytics
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniya19&show_icons=true&locale=en" alt="eniya19" /></p>
