@@ -2,16 +2,18 @@
 <h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
 
 - 👩🏻‍💻 Software Developer turned Data Analyst.
-
+  
+- 👩‍💻 Pursuing Master's in Business Analytics at Syracuse University.
+  
 - 🌱 Always looking for exploring every kind of data.**
-
+  
 - 👯 I’m looking to collaborate and help on with **Python, Data Cleaning, Data Visualization, Data Analysis, SQL, PowerBI**
-
+  
 - 👨‍💻 All of my projects are available at [https://github.com/eniya19](https://github.com/eniya19)
-
+  
 - 💬 Ask me about **Web Scrapping, Data Visualization, Data Analysis**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xB7BLfLZQBtjCucMacpk-lmIlX79OkvY/view](https://drive.google.com/file/d/1xB7BLfLZQBtjCucMacpk-lmIlX79OkvY/view)
+- 📫 How to reach me **eniya1912@gmail.com**
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/eniyakulshreshtha/)
