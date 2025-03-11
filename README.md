@@ -14,7 +14,9 @@
 - 📫 How to reach me **eniya1912@gmail.com**
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/eniyakulshreshtha/)
+<p align="left">
+<a href="https://www.linkedin.com/in/eniyakulshreshtha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eniyakulshreshtha" height="30" width="40" /></a>
+</p>
 
 ### 💡Languages & Tools💡
 - Data Visualization Tools: Tableau, Power BI, Looker 
