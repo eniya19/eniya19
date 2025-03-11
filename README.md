@@ -24,5 +24,5 @@
 - Analytical Tools: Google Analytics, Microsoft Excel, Microsoft Access 
 - Cloud Services: Google Cloud Platform, Amazon Web Services, Snowflake 
 - Statistics: Regression, Correlation, A/B Testing, Hypothesis Testing, Forecasting
-- Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering,
+- Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering
 
