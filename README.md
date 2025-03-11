@@ -1,29 +1,28 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
 <h3 align="center">🎉 Welcome to My Data Adventure! 🚀</h3>
 
-- 👩🏻‍💻 Software Developer turned Data Analyst.
+- 👩🏻‍💻 Hello, curious mind! I’m your friendly data enthusiast. By day, I’m diving deep into datasets, and by night, I’m bringing insights to life  all while listening to some good tunes.🎧
   
 - 👩‍💻 Pursuing Master's in Business Analytics at Syracuse University.
   
 - 🌱 Always looking for exploring every kind of data.**
   
-- 👯 I’m looking to collaborate and help on with **Python, Data Cleaning, Data Visualization, Data Analysis, SQL, PowerBI**
+- 👯  I’m looking to collaborate and help with **Data Exploration, Data Visualization, Data Pipelines, Predictive Analytics, Data Cleaning & Transformation, and Reporting & Dashboards.** 
   
 - 👨‍💻 All of my projects are available at [https://github.com/eniya19](https://github.com/eniya19)
-  
-- 💬 Ask me about **Web Scrapping, Data Visualization, Data Analysis**
 
 - 📫 How to reach me **eniya1912@gmail.com**
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/eniyakulshreshtha/)
-- [Twitter](https://twitter.com/eniyakulshresh1)
-- [Kaggle](https://www.kaggle.com/eniya19)
-
 
 ### 💡Languages & Tools💡
-- Tools: SQL, Python, PowerBI, Excel, PostgreSQL, BigQuery, Tableau, Git, Google Analytics
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+• Data Visualization Tools: Tableau, Power BI, Looker 
+• Programming Languages: SQL, R, Python 
+• Analytical Tools: Google Analytics, Microsoft Excel, Microsoft Access 
+• Cloud Services: Google Cloud Platform, Amazon Web Services, Snowflake 
+• Statistics: Regression, Correlation, A/B Testing, Hypothesis Testing, Forecasting
+• Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniya19&show_icons=true&locale=en" alt="eniya19" /></p>
 
