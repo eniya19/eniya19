@@ -17,12 +17,12 @@
 - [LinkedIn](https://www.linkedin.com/in/eniyakulshreshtha/)
 
 ### 💡Languages & Tools💡
-• Data Visualization Tools: Tableau, Power BI, Looker 
-• Programming Languages: SQL, R, Python 
-• Analytical Tools: Google Analytics, Microsoft Excel, Microsoft Access 
-• Cloud Services: Google Cloud Platform, Amazon Web Services, Snowflake 
-• Statistics: Regression, Correlation, A/B Testing, Hypothesis Testing, Forecasting
-• Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering,
+- Data Visualization Tools: Tableau, Power BI, Looker 
+- Programming Languages: SQL, R, Python 
+- Analytical Tools: Google Analytics, Microsoft Excel, Microsoft Access 
+- Cloud Services: Google Cloud Platform, Amazon Web Services, Snowflake 
+- Statistics: Regression, Correlation, A/B Testing, Hypothesis Testing, Forecasting
+- Machine Learning: Supervised & Unsupervised Learning, Classification, Regression, Clustering,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniya19&show_icons=true&locale=en" alt="eniya19" /></p>
 
