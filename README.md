@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
-<h3 align="center">A passionate Learner || A Self Taught Data Analyst</h3>
+<h3 align="center">🎉 Welcome to My Data Adventure! 🚀</h3>
 
 - 👩🏻‍💻 Software Developer turned Data Analyst.
   
