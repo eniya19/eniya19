@@ -9,8 +9,6 @@
 - 🎓 MS in Business Analytics, **Syracuse University**.
 
 - 🔍 Focused on **product, growth, and user analytics** — experimentation, causal inference, funnel and retention analysis, and the messy work of connecting user behavior to revenue.
-
-- 🛠 SQL · Python · BigQuery · Tableau · Power BI · A/B testing · Attribution modeling
   
 - 👨‍💻 All of my projects are available at [https://github.com/eniya19](https://github.com/eniya19)
 
