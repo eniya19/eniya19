@@ -2,8 +2,10 @@
 <h3 align="center">🎉 Welcome to My Data Adventure! 🚀</h3>
 
 - 👩🏻‍💻 Hello, curious mind! I’m your friendly data enthusiast. By day, I’m diving deep into datasets, and by night, I’m bringing insights to life  all while listening to some good tunes.🎧
+
+- 📊 Currently working in **Marketing Analytics at Drive Social Media**, where I manage paid media performance across 50+ client accounts on Meta and Google Ads — campaign analysis, conversion tracking, attribution, A/B testing, and client-facing reporting.
   
-- 👩‍💻 Pursuing Master's in Business Analytics at Syracuse University.
+- 🎓 MS in Business Analytics, **Syracuse University**.
   
 - 🌱 Always looking for exploring every kind of data.**
   
