@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Eniya Kulshreshtha</h1>
-<h3 align="center">🎉 Welcome to My Data Adventure! 🚀</h3>
+### 🎉 Welcome to My Data Adventure! 🚀
 
-- 👩🏻‍💻 Hello, curious mind! I’m your friendly data enthusiast. By day, I’m diving deep into datasets, and by night, I’m bringing insights to life  all while listening to some good tunes.🎧
+- 👩🏻‍💻 Analytics by day, side projects by night, good tunes throughout. 🎧
 
-- 📊 Currently working in **Marketing Analytics at Drive Social Media**, where I manage paid media performance across 50+ client accounts on Meta and Google Ads — campaign analysis, conversion tracking, attribution, A/B testing, and client-facing reporting.
-  
+- 📊 **Marketing Analytics @ Drive Social Media** — I own performance measurement across 50+ accounts and $1M+ in annual spend. Day to day: designing and reading A/B tests, building attribution pipelines, and tracing the funnel from first impression through conversion to find where users actually drop off.
+
+- 🎯 Before that, **e-commerce analytics at Dunzo** — cohort and basket-level analysis across 1,000+ SKUs, push notification experiments, and category penetration work that lifted average basket value 30%.
+
 - 🎓 MS in Business Analytics, **Syracuse University**.
-  
-- 🌱 Always looking for exploring every kind of data.**
-  
-- 👯  I’m looking to collaborate and help with **Data Exploration, Data Visualization, Data Pipelines, Predictive Analytics, Data Cleaning & Transformation, and Reporting & Dashboards.** 
+
+- 🔍 Focused on **product, growth, and user analytics** — experimentation, causal inference, funnel and retention analysis, and the messy work of connecting user behavior to revenue.
+
+- 🛠 SQL · Python · BigQuery · Tableau · Power BI · A/B testing · Attribution modeling
   
 - 👨‍💻 All of my projects are available at [https://github.com/eniya19](https://github.com/eniya19)
 
